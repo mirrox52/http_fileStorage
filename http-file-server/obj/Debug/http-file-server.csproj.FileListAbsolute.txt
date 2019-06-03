@@ -1,0 +1,8 @@
+C:\Users\Alexander\Desktop\лабы\4 сем\КСИС\файловое хранилище\http-file-server\bin\Debug\http-file-server.exe.config
+C:\Users\Alexander\Desktop\лабы\4 сем\КСИС\файловое хранилище\http-file-server\bin\Debug\http-file-server.exe
+C:\Users\Alexander\Desktop\лабы\4 сем\КСИС\файловое хранилище\http-file-server\bin\Debug\http-file-server.pdb
+C:\Users\Alexander\Desktop\лабы\4 сем\КСИС\файловое хранилище\http-file-server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alexander\Desktop\лабы\4 сем\КСИС\файловое хранилище\http-file-server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alexander\Desktop\лабы\4 сем\КСИС\файловое хранилище\http-file-server\obj\Debug\http-file-server.exe
+C:\Users\Alexander\Desktop\лабы\4 сем\КСИС\файловое хранилище\http-file-server\obj\Debug\http-file-server.pdb
+C:\Users\Alexander\Desktop\лабы\4 сем\КСИС\файловое хранилище\http-file-server\obj\Debug\http-file-server.csprojResolveAssemblyReference.cache
